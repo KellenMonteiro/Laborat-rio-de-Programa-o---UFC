@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "ordvetor.h"
 
 
 //Função de comparação
