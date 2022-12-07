@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "ordvetor.h"
-#include "TR4_519324.c"
+
 
 //Função de comparação
 int myCOMP(void* x, void* y){
